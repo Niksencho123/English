@@ -11,7 +11,7 @@ CNum = 0
 Random_numbers = random.sample(range(1, 50), 7)
 Random_numbers.sort()
 print("Welcome to 1 through 49!")
-time.sleep(3)
+time.sleep(2)
 print("")
 print("Please choose seven numbers!")
 Num1 = (int(input("Enter the first number: ")))
